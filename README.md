@@ -1,5 +1,7 @@
 **Generated from [P3TERX/Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)**
 
+[Lean`s OpenWrt](https://github.com/coolsnowwolf/lede) with vssr, turboacc and mwan only, nothing else.
+
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
 # Actions-OpenWrt
