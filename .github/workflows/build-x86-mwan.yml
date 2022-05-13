@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build x86
+name: Build x86 mwan
 
 on:
   repository_dispatch:
